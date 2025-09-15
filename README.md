@@ -20,17 +20,20 @@ Encapsulation
 
 Polymorphism
 
-### ⚙️ Build & Run Instructions
-On Linux / macOS / WSL:
+# ⚙️ Build & Run Instructions
+### On Linux / macOS / WSL:
 
-bash
+```bash
 g++ transportstation.cpp -o transport
 ./transport
+```
+
 ### On Windows (MinGW g++):
 
-bash
+```bash
 g++ transportstation.cpp -o transport.exe
 transport.exe
+```
 ### 🤖 AI Disclosure
 Author: Nguyen Minh Thanh – 24110132
 
